@@ -29,7 +29,7 @@
 
     background:
         linear-gradient(rgba(245,245,243,0.82), rgba(245,245,243,0.82)),
-        url(../imagenes/internet.jpg);
+        url(internet.jpg);
 
     background-size: cover;
     background-position: center;
